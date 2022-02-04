@@ -1,4 +1,4 @@
-# nus-fintech-4.feb-test-repository
+# nus fintech 4.feb: Test Repository
 
 ## text text
 
